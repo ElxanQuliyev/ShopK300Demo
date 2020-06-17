@@ -1,0 +1,6 @@
+C:\Users\Elxan\source\repos\ShopsAppK300\ShopAppK300.Database\bin\Debug\ShopAppK300.Database.dll
+C:\Users\Elxan\source\repos\ShopsAppK300\ShopAppK300.Database\bin\Debug\ShopAppK300.Database.pdb
+C:\Users\Elxan\source\repos\ShopsAppK300\ShopAppK300.Database\obj\Debug\ShopAppK300.Database.csprojAssemblyReference.cache
+C:\Users\Elxan\source\repos\ShopsAppK300\ShopAppK300.Database\obj\Debug\ShopAppK300.Database.csproj.CoreCompileInputs.cache
+C:\Users\Elxan\source\repos\ShopsAppK300\ShopAppK300.Database\obj\Debug\ShopAppK300.Database.dll
+C:\Users\Elxan\source\repos\ShopsAppK300\ShopAppK300.Database\obj\Debug\ShopAppK300.Database.pdb
